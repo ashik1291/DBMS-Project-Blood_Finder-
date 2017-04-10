@@ -1,14 +1,19 @@
-﻿
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>E-Blood Donation Forum | Admin Profile</title>
+<title>Blood Finder | Admin Profile</title>
 <link href="Style.css" rel="stylesheet" type="text/css" />
 
-</head>
 
-<body>
+</HEAD>
+<BODY onload="noBack();"
+    onpageshow="if (event.persisted) noBack();" onunload="">
+
+
+
 <div class="header">
-<div class="menu"> <div class="top"></div>
+<div class="menu"> <div class="top">&nbsp;&nbsp;<a href="index.php">Home</a> &gt; Admin Area</div>
 <br /><br /><br /><br /><br /><br />
                         <div id="tabsE">
                                 <ul>
@@ -19,7 +24,7 @@
 <li><a href="vw_requests.php"><span>View Requests</span></a></li>
 <li><a href="comments.php"><span>Comments</span></a></li>
 
-                          </ul>
+                                </ul>
     </div>
   </div>
 </div>
@@ -40,16 +45,12 @@
 <li><a href="contact_us.php"><span>Contact Us</span></a><br />
 </li>
 </ul>
-  <p>&nbsp;</p>
+
   </div>
 </div>
-<br />
-<div id="apDiv1">
-  <iframe src="vw_member.php" width="700" height="400" frameborder="0"></iframe>
+<br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 </div>
-<br /><br /><br /><br /><br /><br />
-</div>
-
 <div class="bottom" align="center">© Copyright 2017. All rights are Reserved.</div>
 
 </body>

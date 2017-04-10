@@ -1,7 +1,7 @@
-﻿
+﻿<html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>E-Blood Donation Forum | Admin Profile</title>
+<title>Blood Finder | Donor Profile</title>
 <link href="Style.css" rel="stylesheet" type="text/css" />
 
 </head>
@@ -11,13 +11,11 @@
 <div class="menu"> <div class="top"></div>
 <br /><br /><br /><br /><br /><br />
                         <div id="tabsE">
-                                <ul>
+                          <ul>
                                         <!-- CSS Tabs -->
-
-<li><a href="vw_donors.php"><span>View Donors</span></a></li>
-<li><a href="Admin_search.php"><span>View Member</span></a></li>
-<li><a href="vw_requests.php"><span>View Requests</span></a></li>
-<li><a href="comments.php"><span>Comments</span></a></li>
+<li><a href="index.php"><span>Home</span></a></li>
+<li><a href="#"><span>View Requests</span></a></li>
+<li><a href="contact_us.php"><span>Contact Us</span></a></li>
 
                           </ul>
     </div>
@@ -43,13 +41,11 @@
   <p>&nbsp;</p>
   </div>
 </div>
-<br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <div id="apDiv1">
-  <iframe src="vw_member.php" width="700" height="400" frameborder="0"></iframe>
+  <iframe src="vw_req_frame.php" width="700" height="400" frameborder="0"></iframe>
 </div>
-<br /><br /><br /><br /><br /><br />
 </div>
-
 <div class="bottom" align="center">© Copyright 2017. All rights are Reserved.</div>
 
 </body>
